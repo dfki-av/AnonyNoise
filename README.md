@@ -11,7 +11,7 @@ All good in this is from Allah swt and all mistakes are from me or Shaytan.
 @InProceedings{bendig2025anonynoise,
   author  = {Bendig, Katharina and Schuster, Ren{\'e} and Thiemer, Nicole and Joisten, Karen and Stricker, Didier},
   title   = {AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy},
-  booktitle = {Workshop on Applications of Computer Vision (WACV)},
+  booktitle = {Winter Conference on Applications of Computer Vision (WACV)},
   year    = {2025},
 }
 ```
